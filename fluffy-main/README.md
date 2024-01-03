@@ -1,8 +1,5 @@
 # fluffy
 
-## About fluffy
-This repo contains the sample test framework that the SND QA Team use as part of their pairing test assessment with new recruitment candidates.
-
 ## How to build and run project
 Required tools
 * Git
@@ -12,7 +9,7 @@ Required tools
 
 #### Clone project using git bash:
 ```sh
-git clone git@github.com:springernature/fluffy.git
+git clone https://github.com/sana354/fluffy.git
 
 Run AdvancedSearchPageTest and HomePagePageTest tests
 
